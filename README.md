@@ -112,7 +112,7 @@ The dashboard contains:
  💡 Key Findings
 
 
--T he organization processed 5,000 network events, providing a strong basis for performance and security analysis.
+- The organization processed 5,000 network events, providing a strong basis for performance and security analysis.
 - Average bandwidth usage remained stable at 514.18 MB, with predictable fluctuations over time.
 - A total of 191 threats were detected, with FTP accounting for slightly more than half of all threat incidents.
 - Network packet loss averaged 2.54% and was consistent across VLANs, suggesting a network-wide performance issue rather than a VLAN-specific problem.
