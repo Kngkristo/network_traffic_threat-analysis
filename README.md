@@ -121,6 +121,17 @@ The dashboard contains:
 
 ---
 
+Recommendations
+
+
+- Strengthen FTP security controls, since FTP accounts for the largest share of detected threats. Consider replacing FTP with more secure alternatives such as SFTP where feasible.
+- Investigate recurring downtime in the Finance department to identify root causes and reduce service interruptions.
+- Monitor packet loss across the entire network, as the consistent values across VLANs suggest a shared infrastructure issue.
+- Plan network capacity around peak traffic periods, especially near the end of the reporting period where traffic peaks exceed 30K MB.
+- Continue monitoring IT bandwidth usage to ensure network resources remain sufficient as demand grows.
+
+---
+
 🚀 Future Improvements
 
 - Real-time dashboard
