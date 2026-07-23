@@ -111,12 +111,13 @@ The dashboard contains:
 
  💡 Key Findings
 
-*(Update these with your actual findings after reviewing your dashboard.)*
 
-- Peak traffic occurred during business hours.
-- Some VLANs experienced higher packet loss than others.
-- Downtime varied across departments.
-- Threat activity was concentrated in selected protocols.
+-The organization processed 5,000 network events, providing a strong basis for performance and security analysis.
+-Average bandwidth usage remained stable at 514.18 MB, with predictable fluctuations over time.
+-A total of 191 threats were detected, with FTP accounting for slightly more than half of all threat incidents.
+-Network packet loss averaged 2.54% and was consistent across VLANs, suggesting a network-wide performance issue rather than a VLAN-specific problem.
+-Total downtime reached 625.9 hours, with the Finance department experiencing the highest downtime.
+-The IT department consumed the most bandwidth, indicating heavier network utilization compared to other departments.
 
 ---
 
@@ -125,7 +126,7 @@ The dashboard contains:
 - Real-time dashboard
 - Machine Learning for threat prediction
 - Automated alerts
-- Streaming data integration
+
 
 ---
 
